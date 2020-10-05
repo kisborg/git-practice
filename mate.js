@@ -1,5 +1,5 @@
-const cheer = (param) => {
-  console.log(param);
+const cheer = () => {
+  console.log('cheer');
 };
 
 //addig new line to push
