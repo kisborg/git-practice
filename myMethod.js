@@ -1,11 +1,6 @@
 function greet() {
-  console.log('Márk');
+  console.log('Greetings');
 }
 
 greet();
 
-function greet(name) {
-  console.log(' Hello' + name );
-}
-
-greet('Márk');
