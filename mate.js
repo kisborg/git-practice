@@ -1,5 +1,6 @@
-const cheer = (param1, param2) => {
-  console.log(`${param1} ${param2}`);
-};
+const param = 'JavaScript';
+
+const cheer = (param) => {
+  console.log('Cheer for the ' + param);
 
 cheer('Hello', 'friend');
