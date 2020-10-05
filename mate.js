@@ -1,5 +1,7 @@
+const param = 'JavaScript';
+
 const cheer = (param) => {
   console.log(param);
 };
 
-//addig new line to push
+cheer(param);
