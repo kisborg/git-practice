@@ -1,3 +1,4 @@
 function count(){
-    console.log(2);
+    console.log('My age is: 24');
+    
 }
