@@ -1,4 +1,4 @@
-function count(){
-    console.log('My age is: 24');
+function count(parameter){
+    console.log('Counting the countless: ' + parameter);
     
 }
