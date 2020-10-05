@@ -1,6 +1,5 @@
-function greet() {
-  console.log('Greetings');
+function greet(paramA) {
+  console.log(`Greetings for the ${paramA}`);
 }
 
 greet();
-
